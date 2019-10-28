@@ -1,0 +1,7 @@
+D:\Users10\Александр\Desktop\ISM\ISMOOP\Humans\bin\Debug\Humans.exe.config
+D:\Users10\Александр\Desktop\ISM\ISMOOP\Humans\bin\Debug\Humans.exe
+D:\Users10\Александр\Desktop\ISM\ISMOOP\Humans\bin\Debug\Humans.pdb
+D:\Users10\Александр\Desktop\ISM\ISMOOP\Humans\obj\Debug\Humans.csprojAssemblyReference.cache
+D:\Users10\Александр\Desktop\ISM\ISMOOP\Humans\obj\Debug\Humans.csproj.CoreCompileInputs.cache
+D:\Users10\Александр\Desktop\ISM\ISMOOP\Humans\obj\Debug\Humans.exe
+D:\Users10\Александр\Desktop\ISM\ISMOOP\Humans\obj\Debug\Humans.pdb
