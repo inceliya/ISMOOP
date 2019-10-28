@@ -1,0 +1,7 @@
+D:\Users10\Александр\Desktop\ДЗ\ОП\ISMOOP\Worker\obj\Debug\Worker.csprojAssemblyReference.cache
+D:\Users10\Александр\Desktop\ДЗ\ОП\ISMOOP\Worker\obj\Debug\Worker.csproj.CoreCompileInputs.cache
+D:\Users10\Александр\Desktop\ДЗ\ОП\ISMOOP\Worker\bin\Debug\Worker.exe.config
+D:\Users10\Александр\Desktop\ДЗ\ОП\ISMOOP\Worker\bin\Debug\Worker.exe
+D:\Users10\Александр\Desktop\ДЗ\ОП\ISMOOP\Worker\bin\Debug\Worker.pdb
+D:\Users10\Александр\Desktop\ДЗ\ОП\ISMOOP\Worker\obj\Debug\Worker.exe
+D:\Users10\Александр\Desktop\ДЗ\ОП\ISMOOP\Worker\obj\Debug\Worker.pdb
